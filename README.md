@@ -15,4 +15,19 @@ Key Take-aways:
 Probabilistic Uplift Model:
 
 I had no prior experience on this model and toook it upon myself to research it before proceeding with the dataset.
-      Its Application is prominent in the following fields:
+
+Probabilistic Modeling is a statistical approcah used to predict the probability of various outcomes.
+
+Instead of simply predicting the probability of an outcome upllift models predict how intervention is like to affect the probability of an outcome.
+
+It does this by comparing the outcome of two hypothetical scenarios for a desired outcome.
+
+For example: You want to puechase product A. Uplif modeling comapres a scenario where treatment was recieved with a scenario where treatment was not received.
+
+-Its Application is prominent in the following fields:
+
+ 1. Marketing
+ 2. Healthcare
+ 3. Politics
+ 4. Huuman Resources
+
